@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+when I initialize the repository with git init command it says "On branch master Initial commit
+nothing to commit "
